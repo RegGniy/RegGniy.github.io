@@ -2,6 +2,6 @@
 
 test page for website
 
->how dose dis thing work?
+>how does dis thing work?
 >
 >ok I see...
